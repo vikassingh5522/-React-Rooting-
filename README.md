@@ -39,17 +39,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```
 
-React-Rooting/
-│
-├── public/              # Static assets
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # Page components for each route
-│   ├── App.js           # Main app component
-│   ├── index.js         # Entry point
-│   └── App.css          # Styles
-├── package.json
-└── README.md
+<img width="402" height="313" alt="image" src="https://github.com/user-attachments/assets/fc042bf0-679b-43e3-bef1-aa4e144eea10" />
 
 ````
 
